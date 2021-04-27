@@ -35,7 +35,7 @@ let movieURL = '<iframe width="560" height="315"src="https://www.youtube.com/emb
 
 const movieVideo = new Movie(movieURL)
 
-let serieURL = '<iframe width="560" height="315" src="https://www.youtube.com/embed/znk2OICHbjY" frameborder="0"allow="accelerometer; autoplay; clipboard-write; encrypted-media;gyroscope; picture-in-picture" allowfullscreen></iframe>';
+let serieURL = '<iframe width="560" height="315" src="https://www.youtube.com/embed/cUnkjEIW2-o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>';
 
 const serieVideo = new Serie(serieURL)
 
